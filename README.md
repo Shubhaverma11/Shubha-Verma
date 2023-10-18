@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dr Shubha Verma
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Python,SQL,Power BI,Tableau
+- 🌱 I’m currently learning Python,SQL,Power BI,Tableau, Mathematics, Statistic,Excel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
